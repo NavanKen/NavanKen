@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NavanKen
 - 👀 I’m interested in Gaming, Programing , and Learning
 - 🌱 I’m currently learning javascript , php
-- ⚡ Fun fact:  i am newbie and just learned programming for about 1 year
+- ⚡ Fun fact: i am Human 
 
 <!---
 NavanKen/NavanKen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
