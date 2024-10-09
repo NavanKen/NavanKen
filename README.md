@@ -33,4 +33,6 @@
 <br/>
 <hr/>
 
+<div align="center">
 <a href="https://discord.com/users/711079595314511912"><img src="https://lanyard.cnrad.dev/api/711079595314511912?borderRadius=20px&bg=00000000" alt="Discord" /></a> 
+</div>
