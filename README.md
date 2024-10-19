@@ -13,7 +13,7 @@
 👀 I’m interested in Gaming, Programing , and Learning
  
 
-🌱 I’m currently learning javascript , php
+🌱 I’m currently learning php, laravel
 
 
 ⚡ Fun fact: i am Human 
