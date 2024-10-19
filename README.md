@@ -10,7 +10,7 @@
 
 <div align="center">
  
-👀 I’m interested in Gaming, Programing , and Learning
+👀 I’m interested in web development
  
 
 🌱 I’m currently learning php, laravel
