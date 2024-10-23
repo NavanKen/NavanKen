@@ -16,7 +16,7 @@
 🌱 I’m currently learning php, laravel
 
 
-⚡ Fun fact: i am Human 
+⚡ I hate one of the Python frameworks
  </div>
  
 
