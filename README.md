@@ -13,7 +13,7 @@
 👀 I’m interested in web development
  
 
-🌱 I’m currently learning php, laravel
+🌱 I’m currently learning Javascript, ReactJs
 
 
 ⚡ Fun fact: I hate one of the Python frameworks
