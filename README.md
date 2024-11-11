@@ -21,7 +21,7 @@
 ⚡ Fun fact: I hate one of the Python frameworks
 
 <br/>
-<img align="center" src="https://github.com/user-attachments/assets/b73846d1-94b4-4d8e-9d85-2a4ddd6225ad">
+<img align="center" width="80%" height="400px" src="https://github.com/user-attachments/assets/1dd28333-cdc9-4951-b168-678ad5f6dd21">
  </div>
  
 
