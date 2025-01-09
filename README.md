@@ -18,7 +18,7 @@
 🌱 I’m currently learning Javascript, ReactJs
 
 
-⚡ Fun fact: I hate one of the Python frameworks
+⚡ Fun fact: Im Human
 
 <br/>
 <img align="center" width="80%" height="400px" src="https://github.com/user-attachments/assets/1dd28333-cdc9-4951-b168-678ad5f6dd21">
