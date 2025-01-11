@@ -15,7 +15,7 @@
 👀 I’m interested in web development
  
 
-🌱 I’m currently learning Javascript, ReactJs
+🌱 I’m currently learning Javascript, ReactJs, And Laravel
 
 
 ⚡ Fun fact: Im Human
