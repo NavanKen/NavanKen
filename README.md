@@ -24,7 +24,7 @@
   
   <img align="right" width="400" src="https://github.com/user-attachments/assets/77941958-5893-41c8-bd66-048e7615cf40" />
   <ul>
-    <li>👀 I'm interested in <strong>web development</strong></li>
+    <li>👀 I'm interested in <strong>Web Development and AI</strong></li>
     <li>🌱 I'm currently learning <strong>JavaScript, ReactJs, and Laravel</strong></li>
     <li>🚀 Always exploring new technologies</li>
     <li>💡 Love solving complex problems</li>
@@ -65,6 +65,8 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
 
