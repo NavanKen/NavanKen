@@ -22,7 +22,7 @@
   
   <h2>👨‍💻 About Me</h2>
   
-  <img align="right" width="400" src="https://github.com/user-attachments/assets/77941958-5893-41c8-bd66-048e7615cf40" />
+  <img align="right" width="350" src="https://github.com/user-attachments/assets/77941958-5893-41c8-bd66-048e7615cf40" />
   <ul>
     <li>👀 I'm interested in <strong>Web Development, Mobile Development, and AI</strong></li>
     <li>🌱 I'm currently learning <strong>JavaScript, Flutter , ReactJs, and Laravel</strong></li>
